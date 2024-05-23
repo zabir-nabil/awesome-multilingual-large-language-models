@@ -29,7 +29,16 @@
     <img src="https://img.shields.io/github/license/zabir-nabil/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
-   
+
+<h4>
+    <a href="#datasets">Datasets</a>
+  <span> · </span>
+    <a href="#models">Models</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Visual Language Models</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Survey / Review Papers</a>
+  </h4>
 
 </div>
 
