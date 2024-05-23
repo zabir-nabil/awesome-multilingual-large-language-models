@@ -1,4 +1,39 @@
-# awesome-multilingual-large-language-models
+<div align="center">
+
+  <img src="mlllm_logo.png" alt="logo" width="200" height="auto" />
+  <h1>Awesome Multilingual Large Language Models</h1>
+  
+  <p>
+    A comprehensive collection of multilingual datasets and large language models, meticulously curated for evaluating and enhancing the performance of large language models across diverse languages and tasks.
+  </p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zabir-nabil/awesome-multilingual-large-language-models" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/zabir-nabil/awesome-multilingual-large-language-models" alt="last update" />
+  </a>
+  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/network/members">
+    <img src="https://img.shields.io/github/forks/zabir-nabil/awesome-multilingual-large-language-models" alt="forks" />
+  </a>
+  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/stargazers">
+    <img src="https://img.shields.io/github/stars/zabir-nabil/awesome-multilingual-large-language-models" alt="stars" />
+  </a>
+  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/issues/">
+    <img src="https://img.shields.io/github/issues/zabir-nabil/awesome-multilingual-large-language-models" alt="open issues" />
+  </a>
+  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  </a>
+</p>
+   
+
+</div>
+
+<br />
 
 ## Datasets
 |  Dataset  |   Year  |   Languages   |   GitHub   |   Download   |
