@@ -25,9 +25,7 @@
   <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/issues/">
     <img src="https://img.shields.io/github/issues/zabir-nabil/awesome-multilingual-large-language-models" alt="open issues" />
   </a>
-  <a href="https://github.com/zabir-nabil/awesome-multilingual-large-language-models/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zabir-nabil/awesome-readme-template.svg" alt="license" />
-  </a>
+
 </p>
 
 <h4>
