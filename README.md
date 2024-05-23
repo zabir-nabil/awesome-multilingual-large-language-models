@@ -37,7 +37,7 @@
   <span> · </span>
     <a href="#multilingual-vision-language-models">Multilingual Vision Language Models</a>
   <span> · </span>
-    <a href="#survey-/-review-papers">Survey / Review Papers</a>
+    <a href="#multilingual-vision-language-models">Survey / Review Papers</a>
   </h4>
 
 </div>
