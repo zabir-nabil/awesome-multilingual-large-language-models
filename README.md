@@ -35,9 +35,9 @@
   <span> · </span>
     <a href="#models">Models</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Visual Language Models</a>
+    <a href="#multilingual-vision-language-models">Multilingual Vision Language Models</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Survey / Review Papers</a>
+    <a href="#survey-/-review-papers">Survey / Review Papers</a>
   </h4>
 
 </div>
