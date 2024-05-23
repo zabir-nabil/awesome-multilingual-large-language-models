@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="mlllm_logo.png" alt="logo" width="200" height="auto" />
+  <img src="logo.jpeg" alt="logo" width="200" height="auto" />
   <h1>Awesome Multilingual Large Language Models</h1>
   
   <p>
